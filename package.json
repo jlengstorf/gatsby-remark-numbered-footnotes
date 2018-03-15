@@ -6,6 +6,10 @@
   "repository": "https://github.com/jlengstorf/gatsby-remark-numbered-footnotes.git",
   "author": "Jason Lengstorf <jason@lengstorf.com> (https://lengstorf.com)",
   "license": "MIT",
+  "keywords": [
+    "gatsby",
+    "gatsby-plugin"
+  ],
   "scripts": {
     "build": "babel src --out-dir . --ignore __tests__"
   },
