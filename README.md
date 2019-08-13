@@ -7,7 +7,7 @@ It’s a lightweight wrapper around `remark-numbered-footnotes` to make it work 
 ## Installation
 
 ```bash
-yarn add gatsby-plugin-numbered-footnotes
+yarn add gatsby-remark-numbered-footnotes
 ```
 
 In `gatsby-config.js`, add:
