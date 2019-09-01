@@ -1,6 +1,6 @@
 {
   "name": "gatsby-remark-numbered-footnotes",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Replaces user-defined footnote strings with numbered references.",
   "main": "index.js",
   "repository": "https://github.com/jlengstorf/gatsby-remark-numbered-footnotes.git",
